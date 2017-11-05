@@ -1,0 +1,1 @@
+<a href="/compliments/received">You have received a new compliment!</a>
